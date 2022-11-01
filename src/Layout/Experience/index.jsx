@@ -1,10 +1,11 @@
 import Styles from './styles.module.css'
 
-const Experience = () => {
-  return(
-    <>
-    </>
-  )
-}
 
+const Experience = () => {
+    return(
+      <>
+        
+      </>
+    )
+}
 export default Experience ;

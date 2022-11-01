@@ -1,9 +1,13 @@
+import { Icon } from "./Components/Atoms"
+import { Experience, Studies } from "./Layout"
+
+
 function App() {
-
-
   return (
-    <div className="App">
-    </div>
+    <>
+      <Studies/>
+      <Icon type={"arg"}/>
+    </>
   )
 }
 
