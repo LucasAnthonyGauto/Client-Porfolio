@@ -8,11 +8,12 @@ pnpm-debug.log*
 lerna-debug.log*
 
 Notes.md
+
 node_modules
 dist
 dist-ssr
 *.local
-
+certificatescopy.json
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

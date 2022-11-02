@@ -1,39 +1,37 @@
 import Styles from './styles.module.css';
 import { useState, useEffect } from "react";
-import { Loading, Certificate } from '../../Components/Organisms';
+import { Loading, Certificate, SearchBar } from '../../Components/Organisms';
 import { Button } from '../../Components/Atoms';
+import axios from 'axios';
+
+
 
 const Studies = () => {
   const [certificates, setCertificates] = useState([])
-  const [filtros, setFiltros] = useState(`html`)
+  const [filterKeysWords, setfilterKeysWords] = useState("")
 
-  function CardsData () {
-    fetch(`./Utils/certificates.json`)
-      .then(response => response.json())
-      .then(datos => {
-        setCertificates(datos)
-      })
-    }
+  const cardsData = () => {
+    axios.get(`./Utils/certificates.json`)
+    .then(res => {
+      setCertificates(res.data)
+      searchCertificate()
+    }).catch(err => console.error(err))
+  }
+
+  const searchCertificate = () => {
+    setfilterKeysWords(document.getElementsByName("searchBar")[0].value.toLowerCase().split(' ').join(''))
+  }
     useEffect(() => {
-      CardsData()
+      cardsData()
     }, [])
-    const filtro = certificates.filter(iten => {
-      if (iten.bootcamp === "Educacion IT" ) {
-        return true
-      } {
-        return false;
-      }
-    });
-    console.log(filtro);
-    console.log();
-    const cambio = () => {
-      setFiltros(certificates)
-    }
-
+    const filterCertificates = certificates.filter((certificate) => {
+      return certificate?.keyWords?.includes(filterKeysWords) ? certificate : null
+    })
+    
   return certificates.length > 0 ?(
     <div className="App">
-      {certificates.length && <Certificate certificates={certificates}/>}
-      <Button btnClick={() => {cambio()}}/>
+      <SearchBar onChange={() => searchCertificate()}/>
+      {certificates.length && <Certificate certificates={filterCertificates}/>}
     </div>
   ): (
     <Loading/>
