@@ -1,8 +1,0 @@
-export { default as Button } from './Button'
-export { default as Img } from './Img'
-export { default as Input } from './Input'
-export { default as Text } from './Text'
-export { default as Title } from './Title'
-export { default as Iframe } from './Iframe'
-export { default as Link } from './Link'
-export { default as Spam } from './Spam'

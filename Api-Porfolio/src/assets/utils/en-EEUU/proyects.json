@@ -1,0 +1,249 @@
+[
+  {
+    "id": 231,
+    "title": "Tienda",
+    "descPer": "I was faced for the first time with web development to create a page made with HTML and CSS",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Practice",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "off",
+      "github": ""
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 232,
+    "title": "WineValley",
+    "descPer": "Together with a group of friends we created a project together with the aim of facing everything it took to create a group page following the kanban methodology",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Practice",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "https://winevalley.pages.dev",
+      "github": "https://github.com/LucasAnthonyGauto/TiendaVinos"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 233,
+    "title": "Calculate-React",
+    "descPer": "In order to learn how to use React, I set out to create a functional calculator",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Practice",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": ""
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 234,
+    "title": "WeatherApp",
+    "descPer": "This web application was made with the help of a mentor and friend in order to continue acquiring knowledge",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Practice",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": "https://github.com/LucasAnthonyGauto/weather-app"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 235,
+    "title": "ContadorOnline",
+    "descPer": "This application is created to learn and implement knowledge within the back end area such as WebSokect",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Practice",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": "https://github.com/LucasAnthonyGauto/contador-online"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 236,
+    "title": "DataZapping",
+    "descPer": "A teacher helped me start a project in order to learn React concepts and the implementation of good practices, showing progress weekly",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Paused",
+      "type": "Project",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": "https://github.com/LucasAnthonyGauto/data-zapping"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 237,
+    "title": "EnLaPera",
+    "descPer": "Group project where I have to take the role of guiding the project and helping the rest of the team with the tasks that are difficult for them, applying the Kamba methodology and carrying out the group project from the idea and the sketch",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "In Process",
+      "type": "Project",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": "https://github.com/LucasAnthonyGauto/EnLaPera"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 238,
+    "title": "ApiTest",
+    "descPer": "I left my comfort zone, which is the Front end, to be able to start expanding my skills and face new challenges, one of them was to create a fully functional API.",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Practice",
+      "focus": "Api"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": ""
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 239,
+    "title": "ClientPorfolio",
+    "descPer": "A page to capture all my knowledge, skills, virtues and defects, in addition to fulfilling the role of showing my projects and having the opportunity to get to know myself a little better.",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Project",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": ""
+    },
+    "keyWords": "https://github.com/LucasAnthonyGauto/Client-Porfolio"
+  },
+  {
+    "id": 240,
+    "title": "ApiPorfolio",
+    "descPer": "In order to facilitate the transfer of data from my portfolio I decided to create an api to keep things more organized",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "Finished",
+      "type": "Project",
+      "focus": "Api"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": ""
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 241,
+    "title": "TalkRaibow",
+    "descPer": "More than a web application, it is a challenge to be able to finish a large project alone, applying all the knowledge acquired up to this point and, at the same time, continue acquiring more along the way.",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "In Process",
+      "type": "Project",
+      "focus": "FrontEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": "https://github.com/LucasAnthonyGauto/Client-talk-rainbow"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 242,
+    "title": "TalkRaibow-Api",
+    "descPer": "This api is going to move the data of a large application, which implies a huge challenge, but at the same time an experience and learning",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "In Process",
+      "type": "Project",
+      "focus": "Api"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": "https://github.com/LucasAnthonyGauto/Api-test-talk-rainbow"
+    },
+    "keyWords": ""
+  },
+  {
+    "id": 242,
+    "title": "TalkRaibow-Back",
+    "descPer": "Being the back end the area that I have the least practice, it will be one of the strengths of this application, so that I can face challenges that I would never have considered before.",
+    "descTech": "",
+    "date": "",
+    "labels": {
+      "estate": "In Process",
+      "type": "Project",
+      "focus": "BackEnd"
+    },
+    "imgsCarousel": ["", "", ""],
+    "imgLarge": "http://",
+    "links": {
+      "page": "",
+      "github": ""
+    },
+    "keyWords": ""
+  }
+]

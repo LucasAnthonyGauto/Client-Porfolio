@@ -1,0 +1,30 @@
+[
+  {
+    "id": 18,
+    "title": "Freelance Developer",
+    "business": {
+      "name": "Freelance",
+      "location": ""
+    },
+    "date": {
+      "beginning": "20-9-2022",
+      "finished": "Actualidad"
+    },
+    "desc": "Develop applications both from the client and server side, mainly focused on React and Node, also work with different groups to maintain and improve already assembled web applications",
+    "skills": ["React", "Node.Js", "JS"]
+  },
+  {
+    "id": 19,
+    "title": "Application Support",
+    "business": {
+      "name": "JPH Lions",
+      "location": ""
+    },
+    "date": {
+      "beginning": "27-11-2022",
+      "finished": "Actualidad"
+    },
+    "desc": "Construction and support of business applications, Queries, modification and fixing of databases with SQL Server",
+    "skills": ["SQL", "JS", "Node.Js"]
+  }
+]

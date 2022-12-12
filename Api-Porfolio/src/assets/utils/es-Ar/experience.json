@@ -1,0 +1,30 @@
+[
+  {
+    "id": 18,
+    "title": "Desarrollador Freelance",
+    "business": {
+      "name": "Freelance",
+      "location": ""
+    },
+    "date": {
+      "beginning": "20-9-2022",
+      "finished": "Actualidad"
+    },
+    "desc": "Desarrollar aplicaciones tando desde el lado del cliente como del servidor, enfocado principalmente en React y Node, ademas trabaje con distintos grupos para mantener y mejorar aplicaciones web ya montadas",
+    "skills": ["React", "Node.Js", "JS"]
+  },
+  {
+    "id": 19,
+    "title": "Soporte de aplicaciones",
+    "business": {
+      "name": "JPH Lions",
+      "location": ""
+    },
+    "date": {
+      "beginning": "27-11-2022",
+      "finished": "Actualidad"
+    },
+    "desc": "Construcción y soporte de aplicaciones empresariales, Consultas, modificación y arreglo de bases de datos con SQL Server",
+    "skills": ["SQL", "JS", "Node.Js"]
+  }
+]

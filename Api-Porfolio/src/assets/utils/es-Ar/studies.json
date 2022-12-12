@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "title": "Full stack MERN",
+    "entity": "Fundacion Pescar y Educacion It",
+    "date": {
+      "beginning": "10-3-2022",
+      "finished": "19-9-2022"
+    },
+    "state": "Finalizado",
+    "focus": "MERN Stack ",
+    "desc": "Capacitación Laborar con orientación en programación dentro de la cual no enseñaron tanto habilidades técnicas de la mano de educación  IT y habilidades blandas mediante mentores, tutores y demás  personas. Realice proyectos en grupo e individuales, y desarrolle habilidades de liderazgo, escucha activa, hábitos de estudio entre otros habilidades",
+    "skills": ["React", "Mongo", "NodeJs"]
+  },
+  {
+    "id": 1,
+    "title": "Desarrolador React",
+    "entity": "Autodidacta",
+    "date": {
+      "beginning": "20-9-2022",
+      "finished": "Actualidad"
+    },
+    "state": "En Curso",
+    "focus": "Front End",
+    "desc": "Una ves completada la capacitación de fundación pescar decidí seguir enfocándome al front end con React. donde pueda desarrollar las mejores practicas y seguir realizando proyectos mas grande para encontrarme con mayores desafíos",
+    "skills": ["Js", "React", "Sass"]
+  },
+  {
+    "id": 3,
+    "title": "Full stack Angular",
+    "entity": "Educacion It",
+    "date": {
+      "beginning": "16-11-2022",
+      "finished": "Actualidad"
+    },
+    "state": "En Curso",
+    "focus": "Full Stack",
+    "desc": "Aproveche la oportunidad de seguir enfocándome en el desarrollo web y adquirir mas conocimientos en el área, esta ves enfocado a Angular con .Net",
+    "skills": ["Angular", ".Net", "TypeScrpit"]
+  }
+]

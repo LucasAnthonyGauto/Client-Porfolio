@@ -1,0 +1,249 @@
+[
+    {
+        "id": 231,
+        "title": "Tienda",
+        "descPer": "Me enfrente por primera ves con el desarrollo web para crear una pagina echa con con HTML y CSS",
+        "descTech": "",
+        "date": "21-02-2022",
+        "labels": {
+            "state": "Terminada",
+            "type": "Practica",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "off",
+            "github": ""
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 232,
+        "title": "WineValley",
+        "descPer": "Junto a un grupo de amigos creamos un proyecto juntos con el objetivo de enfrentarnos a todo lo que llevaba crear una pagina en grupo siguiendo la metodología kanban",
+        "descTech": "",
+        "date": "14-05-2022",
+        "labels": {
+            "state": "Terminada",
+            "type": "Practica",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "https://winevalley.pages.dev",
+            "github": "https://github.com/LucasAnthonyGauto/TiendaVinos"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 233,
+        "title": "Calculate-React",
+        "descPer": "Con el objetivo de aprender a utilizar React, me propuse el crear una calculadora funcional",
+        "descTech": "",
+        "date": "22-6-2022",
+        "labels": {
+            "state": "Terminada",
+            "type": "Practica",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": ""
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 234,
+        "title": "WeatherApp",
+        "descPer": "Esta aplicación web fue echa con la ayuda de un mentor y amigo con el fin de seguir adquiriendo conocimiento",
+        "descTech": "",
+        "date": "4-7-2022",
+        "labels": {
+            "state": "Terminada",
+            "type": "Practica",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": "https://github.com/LucasAnthonyGauto/weather-app"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 235,
+        "title": "DataZapping",
+        "descPer": "Un profesor me ayudo a iniciar un proyecto con el fin de aprender conceptos de React y la implementación de buenas practicas, mostrando avances semanalmente",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "Pausada",
+            "type": "Proyecto",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": "https://github.com/LucasAnthonyGauto/data-zapping"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 236,
+        "title": "ContadorOnline",
+        "descPer": "Esta aplicación la cree para aprender e implementar conocimientos dentro del área del back end como WebSokect",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "Terminada",
+            "type": "Practica",
+            "focus": "BackEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "Proyecto grupal donde me toco tomar el rol de guiar el proyecto y ayudar al resto del equipo con las tareas que se les dificultan, aplicando la metodología Kamba y realizando el proyecto en grupo desde la idea y el boceto",
+            "github": "https://github.com/LucasAnthonyGauto/contador-online"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 237,
+        "title": "EnLaPera",
+        "descPer": "",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "En Proceso",
+            "type": "Proyecto",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": "https://github.com/LucasAnthonyGauto/EnLaPera"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 238,
+        "title": "ApiTest",
+        "descPer": "Salí de mi zona de confort que es el Front end para poder empezar a ampliar mis habilidades y enfrentarme a nuevos desafíos, uno de ellos era realizar una api totalmente funcional",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "Terminada",
+            "type": "Practica",
+            "focus": "Api"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": ""
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 239,
+        "title": "ClientPorfolio",
+        "descPer": "Una pagina para plasmar todos mis conocimientos, habilidades, virtudes y defectos, además de cumplir el rol de mostrar mis proyectos y tener la oportunidad de conocerme un poquito mejor",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "Terminada",
+            "type": "Proyecto",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": "https://github.com/LucasAnthonyGauto/Client-Porfolio"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 240,
+        "title": "ApiPorfolio",
+        "descPer": "Con el objetivo de facilitar el traslado de datos de mi portafolio decidí crear una api para poder mantener las cosas mas ordenadas",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "Terminada",
+            "type": "Proyecto",
+            "focus": "Api"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": ""
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 241,
+        "title": "TalkRaibow",
+        "descPer": "Mas que una aplicación web es un desafío de poder terminar solo un gran proyecto aplicando todos los conocimientos adquiridos asta este punto y a su ves seguir adquiriendo mas en el camino",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "En Proceso",
+            "type": "Proyecto",
+            "focus": "FrontEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": "https://github.com/LucasAnthonyGauto/Client-talk-rainbow"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 242,
+        "title": "TalkRaibow-Api",
+        "descPer": "Esta api va a trasladar los datos de una aplicación grande, lo cual implica un desafío enorme, pero a su ves una experiencia y un aprendizaje",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "En Proceso",
+            "type": "Proyecto",
+            "focus": "Api"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": "https://github.com/LucasAnthonyGauto/Api-test-talk-rainbow"
+        },
+        "keyWords": ""
+    },
+    {
+        "id": 242,
+        "title": "TalkRaibow-Back",
+        "descPer": "Siendo el back end la zona que menos practica le tengo, va a ser uno de los puntos fuertes de esta aplicación, de manera que pueda enfrentarme a desafíos que nunca antes me hubiera planteado",
+        "descTech": "",
+        "date": "",
+        "labels": {
+            "state": "EnProceso",
+            "type": "Proyecto",
+            "focus": "BackEnd"
+        },
+        "imgsCarousel": ["", "", ""],
+        "imgLarge": "http://",
+        "links": {
+            "page": "",
+            "github": ""
+        },
+        "keyWords": ""
+    }
+]
