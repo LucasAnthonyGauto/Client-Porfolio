@@ -1,10 +1,11 @@
-import Styles from './styles.module.css'
+import Styles from './styles.module.css';
 
 const Desc = () => {
-  return(
-    <>
-    </>
-  )
-}
+  return (
+    <div>
 
-export default Desc ;
+    </div>
+  );
+};
+
+export default Desc;

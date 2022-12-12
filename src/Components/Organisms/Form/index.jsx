@@ -1,10 +1,14 @@
+import { Input } from '../../Atoms';
 import Styles from './styles.module.css'
 
 const Form = () => {
-  return(
-    <>
-    </>
-  )
-}
+  return (
+    <div>
+      <Input name={""} onChange={""} placeholder={""} />
+      <Input name={""} onChange={""} placeholder={""} />
+      <Input name={""} onChange={""} placeholder={""} />
+    </div>
+  );
+};
 
-export default Form ;
+export default Form;

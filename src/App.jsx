@@ -1,12 +1,11 @@
 import { Icon } from "./Components/Atoms"
-import { Experience, Studies } from "./Layout"
-
+import Slider from "./Components/Organisms/Slider"
+import { Certificates, Experience, Skills, Studies } from "./Layout"
 
 function App() {
   return (
     <>
       <Studies/>
-      <Icon type={"arg"}/>
     </>
   )
 }
